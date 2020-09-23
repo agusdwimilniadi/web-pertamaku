@@ -1,0 +1,103 @@
+.navBar a img{
+    width: 7%;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    margin-left: 50px;
+}
+
+.navbarKanan{
+    margin-left: 200px;
+}
+.navbarKanan li a{
+    font-weight: bolder;
+    font-size: larger;
+}
+
+.jumbotron{
+    min-height: 400px;
+    background-image: url("../img/jumbotron.jpg");
+    background-size: cover;
+    color: aliceblue;
+    font-weight: bolder;
+    margin-top: 80px;
+    margin-bottom: 0;
+}
+.jumbotron i{
+    width: 1000px;
+}
+.textJumbotron p a{
+    background-color: #d32525;
+}
+
+.postSatu{
+    min-height: 300px;
+    background-color: #eeeeee;
+    padding-top: 50px;
+    margin-top: 0;
+}
+.postSatu img{
+    width: 200px;
+}
+
+.postSatu h1{
+    font-weight: bolder;
+}
+.postSatu p{
+    font-size:large ;
+}
+
+.postDua{
+    margin-top: 50px;
+    min-height: 200px;
+}
+
+.postDua h2{
+    font-weight: bolder;
+}
+
+.event {
+    min-height: 500px;
+    background-color: #eeeeee;
+}
+
+.event h1{
+    font-weight: bolder;
+}
+.event hr{
+    width: 300px;
+    border: 3px solid #d32525;
+}
+
+.postEvent p a{
+    margin-left: 60px;
+    background-color: #d32525;
+}
+
+.info{
+    min-height: 400px;
+    background-color: #d32525;
+    color: white;
+    
+}
+.info img{
+    width: 300px;
+    margin-top: 50px;
+}
+
+.info h1{
+    font-weight: bolder;
+
+}
+.info p{
+    font-size:large ;
+}
+
+.info .kanan{
+    padding-top: 60px;
+}
+
+footer{
+    color: white;
+    font-size: large;
+    background-color: black;
+}
